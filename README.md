@@ -1,2 +1,2 @@
-![UML](./logo.png)
+![UML](./uml.jpg)
 
